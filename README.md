@@ -10,7 +10,7 @@
 - HTML, CSS (6 years)  
 - Frontend Frameworks: Svelte, React (4 years)  
 - SQL (MySQL / SQLite) and Key-Value Databases (Redis)  
-- Working with LLM APIs (OpenAI, Gemini)  
+- LLM APIs (OpenAI, Gemini)  
 - Reverse Engineering (Windows, Android, and iOS applications - 4 years)
 
 
